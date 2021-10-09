@@ -1,0 +1,2 @@
+# ColorHashTable
+A program that creates 2 hash tables: one sorted by RGB values and one sorted by name. The two hash tables resolve collisions in different ways: one by using linear probing and separate chaining by creating a linked list.  The program takes in a test file with the color name without spaces, followed by the RGB value, separated by spaces. The program was successful and resulted in an A+ for the grade. 
